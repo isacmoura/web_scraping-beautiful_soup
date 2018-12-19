@@ -1,2 +1,2 @@
 # web_scraping-beautiful_soup
-Web scraping with Beautiful Soap - Python 3
+Web scraping with Beautiful Soup - Python 3
